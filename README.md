@@ -1,2 +1,1 @@
-# sis-note
-Engineering Academic Notes Website
+ACADAMIC NOTES
